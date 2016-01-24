@@ -5,7 +5,8 @@
   "main": "main.js",
   "scripts": {
     "start": "node ./main.js",
-    "test": "echo \"TEST NOT IMPLEMENTED\""
+    "test": "./node_modules/mocha/bin/mocha",
+    "test-w": "./node_modules/mocha/bin/mocha --watch ./lib ./test --recursive"
   },
   "repository": {
     "type": "git",
@@ -29,5 +30,9 @@
   "dependencies": {
     "irc": "^0.4.0",
     "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.2.0"
   }
 }
