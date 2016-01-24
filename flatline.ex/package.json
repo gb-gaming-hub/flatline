@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/gb-gaming-hub/flatline/issues"
   },
-  "homepage": "https://github.com/gb-gaming-hub/flatline#readme"
+  "homepage": "https://github.com/gb-gaming-hub/flatline#readme",
+  "dependencies": {
+    "tennu": "^4.8.0"
+  }
 }
