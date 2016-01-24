@@ -1,0 +1,28 @@
+{
+  "name": "flatline.ex",
+  "version": "0.1.0",
+  "description": "#GB_Gaming_Hub node irc bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"TEST NOT IMPLEMENTED\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gb-gaming-hub/flatline.git"
+  },
+  "keywords": [
+    "Giant",
+    "Bomb",
+    "irc",
+    "bot"
+  ],
+  "contributors": [
+    "ScreamingFist <irc.quakenet.org>",
+    "Erik Nelson <io@eriknelson.me>"
+  ],
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gb-gaming-hub/flatline/issues"
+  },
+  "homepage": "https://github.com/gb-gaming-hub/flatline#readme"
+}
