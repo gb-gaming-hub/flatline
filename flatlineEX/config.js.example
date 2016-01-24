@@ -1,0 +1,12 @@
+'use strict'
+
+const name = 'flatlineEX'
+
+const config = {
+  channels: ['#gb_gaming_hub'],
+  server: 'irc.quakenet.org',
+  botName: name,
+  userName: name
+};
+
+module.exports = config;

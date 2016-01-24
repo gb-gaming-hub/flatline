@@ -4,6 +4,7 @@
   "description": "#GB_Gaming_Hub node irc bot",
   "main": "main.js",
   "scripts": {
+    "start": "node ./main.js",
     "test": "echo \"TEST NOT IMPLEMENTED\""
   },
   "repository": {
@@ -26,6 +27,7 @@
   },
   "homepage": "https://github.com/gb-gaming-hub/flatline#readme",
   "dependencies": {
-    "tennu": "^4.8.0"
+    "irc": "^0.4.0",
+    "underscore": "^1.8.3"
   }
 }
